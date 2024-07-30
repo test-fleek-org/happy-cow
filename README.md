@@ -1,2 +1,2 @@
-# march-27
+# Happy Cow
 Test static site for testing installations
